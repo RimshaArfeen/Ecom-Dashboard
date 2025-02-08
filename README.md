@@ -13,20 +13,6 @@ EcomDashboard is a modern e-commerce admin dashboard for managing products and s
 - **Database**: MongoDB
 - **Auth**: JSON Web Tokens (JWT)
 
-## Getting Started
-===================
-
-### Prerequisites
-- Node.js (v14+), npm/yarn, MongoDB
-
-### Installation
-1. **Clone & Install:**
-   ```bash
-   git clone https://github.com/yourusername/EcomDashboard.git
-   cd EcomDashboard
-   npm install
-   ```
-
 ### Products
 - **GET** `/api/products` - List products.
 - **POST** `/api/products` - Add product.
